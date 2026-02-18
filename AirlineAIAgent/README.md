@@ -4,12 +4,12 @@ An intelligent AI-powered customer service agent for FlightAI airline that helps
 
 ## Features
 
-- 🤖 **AI-Powered Chat Interface**: Interactive chat interface built with Gradio using OpenAI's GPT-4o-mini model
-- 💰 **Ticket Price Queries**: Customers can inquire about flight ticket prices to any destination
-- 🔐 **Secure Price Updates**: Authentication-protected functionality for authorized staff to update ticket prices
-- 🗄️ **SQLite Database**: Persistent storage for ticket prices using SQLite
-- 🔧 **Function Calling**: Leverages OpenAI's function calling capabilities for dynamic tool usage
-- 💬 **Natural Language Processing**: Understands natural language queries and responds appropriately
+- **AI-Powered Chat Interface**: Interactive chat interface built with Gradio using OpenAI's GPT-4o-mini model
+- **Ticket Price Queries**: Customers can inquire about flight ticket prices to any destination
+- **Secure Price Updates**: Authentication-protected functionality for authorized staff to update ticket prices
+- **SQLite Database**: Persistent storage for ticket prices using SQLite
+- **Function Calling**: Leverages OpenAI's function calling capabilities for dynamic tool usage
+- **Natural Language Processing**: Understands natural language queries and responds appropriately
 
 ## Prerequisites
 
@@ -159,7 +159,7 @@ Always be accurate. If you don't know the answer, say so.
 
 ## Security Considerations
 
-⚠️ **Important**: This is a demonstration project. For production use:
+**Important**: This is a demonstration project. For production use:
 
 1. Change default authentication credentials
 2. Implement proper password hashing (e.g., bcrypt)
