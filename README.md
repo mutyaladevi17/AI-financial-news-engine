@@ -122,7 +122,7 @@ create_news_summary("Apple", "https://finance.yahoo.com/")
 
 ```
 StockNewsAI/
-├── cOMPANY_STOCK_SUMMARIZER.ipynb  # Main notebook
+├── Company_stock_summarizer.ipynb  # Main notebook
 ├── scraper.py                            # Web scraping utilities
 ├── README.md                             # This file
 └── .env                                  # API key configuration (create this)
